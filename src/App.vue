@@ -1,6 +1,13 @@
+import HelloWorld from './components/HelloWorld.vue';
+
+import AppHero from './components/AppHero.vue';
+
+
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+
+
 </script>
+
 
 <template>
   <div>
